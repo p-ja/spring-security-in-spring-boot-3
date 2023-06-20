@@ -37,3 +37,7 @@ curl -s -X PUT -H "Content-Type: application/json" -d '{"name": "Abc"}'  http://
 ```shell
 curl -s -X DELETE http://localhost:8080/api/v1/students
 ```
+
+## References
+
+1. https://docs.spring.io/spring-security/reference/5.8/migration/servlet/config.html
